@@ -49,9 +49,11 @@ return {
               format = {
                 enabled = true,
                 settings = {
-                  url = "/home/kim/.config/nvim/java-code-style.xml",
+                  url = "/home/kim/.config/nvim/java-code-style-google.xml",
                   profile = "Default",
                 },
+                tabSize = 4,
+                insertSpaces = true,
               },
             },
           },
